@@ -1,4 +1,4 @@
 vaadin-mvstar
 =============
 
-playground to get a graps on the different Model-View-* patterns with vaadin
+playground to get a grasp on the different Model-View-* patterns with vaadin
